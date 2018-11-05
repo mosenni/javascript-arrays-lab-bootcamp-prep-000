@@ -34,7 +34,7 @@ return ["Arnold", ...kittens]
   }
 
 function removeLastKitten(){
-return (kittens.slice(1, 2))
+return (kittens.slice(1))
 
 }
 
