@@ -30,8 +30,7 @@ return [...kittens, "Broom"]
 
 function prependKitten(name){
 
-return ["Catto", ...kittens]
-
+return ["Arnold", ...kittens]
   }
 
 function removeLastKitten(){
